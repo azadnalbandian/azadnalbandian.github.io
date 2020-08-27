@@ -42,9 +42,9 @@ export default {
     }
 
     .burger-button {
-        float: left;
-        position: relative;
-        margin: 10px 5px 10px 10px;
+        position: absolute;
+        left: 0;
+        margin: 5px 5px 10px 10px;
         height: 40px;
         width: 42px;
         z-index: 999;
